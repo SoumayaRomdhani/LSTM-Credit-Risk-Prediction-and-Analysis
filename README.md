@@ -130,9 +130,6 @@ Calculate the ROI based on the cost savings from preventing loan defaults compar
 
 This project demonstrates that **LSTM** deep learning models can significantly enhance **credit risk prediction** by effectively handling sequential data. By incorporating business-specific metrics like **default capture rate** and **approval rate**, this project highlights the model's financial impact. **LSTM** models are well-suited for time-series financial data, offering a valuable tool for improving loan approval decisions and reducing defaults in the banking sector.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
